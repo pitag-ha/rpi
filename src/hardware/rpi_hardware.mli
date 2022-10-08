@@ -6,6 +6,8 @@ val mtime : nativeint
 
 val pwm : nativeint
 
+val pwm1 : nativeint
+
 val aux : nativeint
 
 val uart0 : nativeint

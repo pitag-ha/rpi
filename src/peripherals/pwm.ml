@@ -7,13 +7,9 @@ module Reg = struct
     end)
 
     let msen1 = bool ~offset:7
-
     let clrf = bool ~offset:6
-
     let usef1 = bool ~offset:5
-
     let mode1 = bool ~offset:1
-
     let pwen1 = bool ~offset:0
   end
 
@@ -23,7 +19,6 @@ module Reg = struct
     end)
 
     let empt1 = bool ~offset:1
-
     let full1 = bool ~offset:0
   end
 
